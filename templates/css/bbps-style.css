@@ -1,0 +1,38 @@
+
+.resolved{
+	color:green;
+}
+
+#bbps_support_forum_options{
+	clear: left;
+	float:left;
+	display:block;
+}
+
+#bbps-topic-status{
+	float:left;
+	margin-top:12px;
+}
+
+.med-text{
+	width:80px;
+}
+
+.bbps-clear{
+	clear: both;
+}
+
+#bbps_support_forum_options{
+	display: block;
+	width:600px;
+}
+
+.bbps_float_left{
+float:left;
+width:100px;
+}
+
+.topic_stat{
+float:left;
+width:100px;
+}
